@@ -1,4 +1,6 @@
 # Chocolatey - like yum or apt-get, but for Windows
+
+[![Join the chat at https://gitter.im/montanafox/choco](https://badges.gitter.im/montanafox/choco.svg)](https://gitter.im/montanafox/choco?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 You can just call me choco.
 
 ![Chocolatey Logo](https://github.com/chocolatey/chocolatey/raw/master/docs/logo/chocolateyicon.gif "Chocolatey")
